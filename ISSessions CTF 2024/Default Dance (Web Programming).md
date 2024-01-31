@@ -35,7 +35,7 @@ Wrong :( Maybe the most evil man on the planet was busier with other things...
 
 The Final Flag: EspionageCTF{bad_passw0rd_policy_smh}
 
-# 
-
+## Lessons Learned
+1: Always change the default password. 
 
 
