@@ -6,6 +6,6 @@ I tried a bunch of different categories: web programming, OSINT, cryptography, p
 
 All in all, I learned a lot and met a lot of cool people. 
 
-Yep, I think I'm going to start doing a bunch of CTFs from now on...
+So, I think I'm going to start doing a bunch of CTFs from now on...
 
 ### Hope you enjoy the write-ups for my first ever CTF!
