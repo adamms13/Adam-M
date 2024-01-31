@@ -19,7 +19,7 @@ I was right!
 
 I tried accessing SuperDuperCoolAdmin with the _SuperDuperCoolAdmin_ password, but unfortunately, the most evil man on the planet was smarter than that...
 
-So instead, I decided to create an account! After selecting the option, I was brought to this page:
+So instead, I decided to create an account. After selecting the option, I was brought to this page:
 
 ![5](https://github.com/magdzzia/Adam-M/assets/158006085/a2259e8b-b352-406c-84af-dd2cef122f73)
 
@@ -36,6 +36,6 @@ Wrong :( Maybe the most evil man on the planet was busier with other things...
 The Final Flag: EspionageCTF{bad_passw0rd_policy_smh}
 
 ## Lessons Learned
-1: Always change the default password. 
+1: Always change the default password. Even if you're the most evil man on the planet. 
 
 
