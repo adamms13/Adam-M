@@ -30,7 +30,7 @@ So after putting this string into the input, I was greeted with this beautiful s
 
 _Now I know I'm making progress! But what do I do now..._
 
-I did have to research quite a bit into making the proper command to exploit this vulnerability. I could have asked ChatGPT but where's the fun in that right? 
+I did have to research quite a bit (again) into making the proper command to exploit this vulnerability. I could have asked ChatGPT but where's the fun in that right? 
 
 After trying to make the right single-line payload<sup>3</sup> with the commands I individually found online, I was just stumped. I felt like whatever I was trying didn't make sense. So I took to Google and found this beautiful one-liner:
 
