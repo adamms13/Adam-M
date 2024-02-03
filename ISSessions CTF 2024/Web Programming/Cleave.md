@@ -24,7 +24,7 @@ So admittedly, I did have to do some research. Eventually, I came across a strin
 
 ${{<%[%"'}}%\ <sup>2</sup>
 
-So after putting string into the input, I was greeted with this beautiful screen. 
+So after putting this string into the input, I was greeted with this beautiful screen. 
 
 ![5](https://github.com/magdzzia/Adam-M/assets/158006085/99ca2c6d-3cac-468d-8e64-0b3912b3ffc4)
 
