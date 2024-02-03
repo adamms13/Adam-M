@@ -16,7 +16,7 @@ After typing out 'test' as the name, it led to a welcome screen:
 
 ### I wish they had a dark mode, but I digress...
 
-To continue on the challenge, I tried recalling attacks that could be used on web servers & HTML from my previous classes. After what was probably about 20 minutes, I remembered about XSS. While that wasn't the answer, it lead me down the road of finding out about SSTI attacks.<sup>1</sup>
+To continue on the challenge, I tried recalling attacks that could be used on web servers & HTML from my previous classes. After what was probably about 20 minutes, I remembered about XSS. While that wasn't the answer, it led me down the road of finding out about SSTI attacks.<sup>1</sup>
 
 But I ran into a crossroads... I had no idea how to exploit this attack.
 
