@@ -33,3 +33,27 @@ And since tr translates 1 for 1, N-ZA-Mn-za-m means that if an A pops up in the 
 
 Flag: picoCTF{next_time_I'll_try_2_rounds_of_rot13_TLcKBUdK}
 
+#  Challenge 3 - Python Wrangling
+
+Given a Python script, a password, and a flag I would need to translate, I first opened the Python script to see what it would do.
+
+In a .txt file, the password was: dbd1bea4dbd1bea4dbd1bea4dbd1bea4
+In a .txt file, the flag was: gAAAAABgUAIWuksW6PU7W1WFXiBWkF2S8VhtL_5335iazHhuBnWloiyt3ZAFwR2zyuG7iZLSVPaQIZLTxgo-WXIk6Cnk7-KZm1g1qo_v1zDMK5wDocmVFxL0o5ae6OrB9VKdh3HerIsy
+
+![Screenshot from 2024-05-29 07-33-14](https://github.com/magdzzia/CTF-Writeups/assets/158006085/85bf751e-4c2f-439b-b2ce-e804e590774c)
+
+I see that a -e option encrypts with a password, and a -d option decrypts with a password.
+
+So I ran the script with the flag file.
+
+![Screenshot from 2024-05-29 07-35-55](https://github.com/magdzzia/CTF-Writeups/assets/158006085/351bb7d4-09c5-4db5-80f0-376a91705011)
+
+Flag: picoCTF{4p0110_1n_7h3_h0us3_dbd1bea4}
+
+# Challenge 4 - Wave a Flag
+
+
+
+
+
+
