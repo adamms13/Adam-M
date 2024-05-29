@@ -96,6 +96,21 @@ Flag: picoCTF{the_m3tadata_1s_modified}
 
 # Challenge 6 - Nice NetCat...
 
+![Screenshot from 2024-05-29 15-53-50](https://github.com/magdzzia/CTF-Writeups/assets/158006085/9b945041-a859-46e3-b1f4-9d9a80643e1e)
+
+I know I needed to connect with nc through the terminal, and did just that:
+
+![Screenshot from 2024-05-29 15-55-09](https://github.com/magdzzia/CTF-Writeups/assets/158006085/09b0c236-e537-49e5-b188-5f57a33ca3d4)
+
+I was given a list of numbers and honestly, I had to use the hint as I didn't really know where to go with it. 
+
+I came across ASCII and immediately was dumbfounded. 
+
+Yep, those are ASCII numbers. So I just plopped them into an ASCII > Text converter and got the flag. Now I know that whenever I see a list of numbers, always try ASCII.
+
+Flag: picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
+
+# Challenge 7 - Transformation
 
 
 
