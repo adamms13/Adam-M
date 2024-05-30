@@ -1,4 +1,4 @@
-![image](https://github.com/magdzzia/CTF-Writeups/assets/158006085/b4dde1d4-47fa-4c05-a0da-981259fa7eed)# The Beginning of Solving PicoCTF
+# The Beginning of Solving PicoCTF
 
 For this summer, I made it my goal to learn more about CTFs.
 
